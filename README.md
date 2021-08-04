@@ -15,8 +15,8 @@
 - 📏 Spelling is alwayz on point.
 - 📰 Website: http://ofenrohr100.core-dev.com/
 
-![OFENROHR100 GitHub stats](https://github-readme-stats.vercel.app/api?username=OFENROHR100)(https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFENROHR100)(https://github.com/anuraghazra/github-readme-stats)
+![OFENROHR100 GitHub stats](https://github-readme-stats.vercel.app/api?username=OFENROHR100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFENROHR100)
 ### Connect with me:
 
 [<img align="left" alt="ofenrohr100.core-dev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
